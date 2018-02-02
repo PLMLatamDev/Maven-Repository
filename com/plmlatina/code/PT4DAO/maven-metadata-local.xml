@@ -3,7 +3,7 @@
   <groupId>com.plmlatina.code</groupId>
   <artifactId>PT4DAO</artifactId>
   <versioning>
-    <release>1.0.49</release>
+    <release>1.0.50</release>
     <versions>
       <version>1.0.37</version>
       <version>1.0.38</version>
@@ -18,7 +18,8 @@
       <version>1.0.47</version>
       <version>1.0.48</version>
       <version>1.0.49</version>
+      <version>1.0.50</version>
     </versions>
-    <lastUpdated>20171123214933</lastUpdated>
+    <lastUpdated>20180202230925</lastUpdated>
   </versioning>
 </metadata>
